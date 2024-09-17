@@ -28,4 +28,4 @@ hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@213.189.53.91:12296/?sni=www.bi
 
 tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@213.189.53.91:12297?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#tuic-Navid-5
 
-warp://p1@188.114.96.251:891?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@162.159.192.78:8886#warp in warp-Navid
+warp://p1@188.114.96.251:891?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#Iran&&detour=warp://p2@162.159.192.78:8886#WOW-Navid
