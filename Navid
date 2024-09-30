@@ -28,6 +28,12 @@ hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@213.189.53.91:12296/?sni=www.bi
 
 tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@213.189.53.91:12297?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#tuic-Navid-5
 
+vmess://eyAidiI6ICIyIiwgInBzIjogIk5hdmlkIDYiLCAiYWRkIjogIjIxMy4xODkuNTMuOTEiLCAicG9ydCI6ICIxNjMwMCIsICJpZCI6ICJiYzk3ZjY3NC1jNTc4LTQ5NDAtOTIzNC0wYTFkYTQ2MDQxYjkiLCAiYWlkIjogIjAiLCAic2N5IjogIm5vbmUiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi92bWVzcz9lZD0yMDQ4IiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQo=
+
+hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@213.189.53.91:16298/?sni=www.bing.com&alpn=h3&insecure=1#hy2-Navid-6
+
+tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@213.189.53.91:16299?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#tuic-Navid-6
+
 warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#LocalIP-1&&detour=warp://auto#Warp-Navid-DE-1
 
 warp://auto?ifpm=m4#LocalIP-2&&detour=warp://auto#Warp-Navid-DE-2
