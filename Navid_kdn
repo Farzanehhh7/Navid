@@ -56,6 +56,14 @@ hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.87.211:7933/?sni=www.bin
 
 tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@31.186.87.211:7934?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#tuic-Navid-10⚡
 
+hysteria2://bc97f674-c578-4940-9234-0a1da46041b9@31.186.87.211:7933/?sni=www.bing.com&alpn=h3&insecure=1#hy2-Navid-11⚡
+
+tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@31.186.87.211:7934?sni=www.bing.com&congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1#tuic-Navid-11⚡
+
+vmess://eyAidjIiOiAiMiIsICJwcyI6ICJOYXZpZCAxMSIsICJhZGQiOiAid3d3LnZpc2EuY29tLnR3IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImJjOTdmNjc0LWM1NzgtNDk0MC05MjM0LTBhMWRhNDYwNDFiOSIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiYmVhdGxlcy1taWRsYW5kcy1pbnZvaWNlLWFjLnRyeWNsb3VkZmxhcmUuY29tIiwgInBhdGgiOiAiL3ZtZXNzP2VkPTIwNDgiLCAidGxzIjogInRscyIsICJzbmkiOiAiYmVhdGxlcy1taWRsYW5kcy1pbnZvaWNlLWFjLnRyeWNsb3VkZmxhcmUuY29tIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
+
+vmess://eyAidjIiOiAiMiIsICJwcyI6ICJOYXZpZCAxMSIsICJhZGQiOiAiMzEuMTg2Ljg3LjIxMSIsICJwb3J0IjogIjExNjE5IiwgImlkIjogImJjOTdmNjc0LWM1NzgtNDk0MC05MjM0LTBhMWRhNDYwNDFiOSIsICJhaWQiOiAiMCIsICJzY3kiOiAibm9uZSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3ZtZXNzP2VkPTIwNDgiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9
+
 //warp://auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#LocalIP-1&&detour=warp://auto#Warp-Navid-DE-1
 
 //warp://auto?ifpm=m4#LocalIP-2&&detour=warp://auto#Warp-Navid-DE-2
